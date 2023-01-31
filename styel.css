@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-image: url(https://media.istockphoto.com/id/1414801543/photo/basketball-ball-on-basketball-court-in-an-empty-basketball-arena.jpg?b=1&s=170667a&w=0&k=20&c=3CQsCyKGJKzMMEwc8bDxbQjSuUGd5U7MLsgWtmubZkU=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    color: white;
+}
+h1{
+    background-color: rgba(0, 115, 255, 0.301);
+    color: white;
+    width: 20vh;
+    height: 50px;
+    text-align: center;
+}
+button{
+    background-color: rgba(255, 255, 255, 0.92);
+    color: rgb(0, 150, 225);
+    padding: 5px;
+    font-size: x-large;
+    border: none;
+    border-radius: 3px;
+}
